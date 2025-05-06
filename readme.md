@@ -1,4 +1,4 @@
-<a href="@abacus_tor@"><img src="/config/system  .webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/image/map.webp" alt="image" style="max-width: 100%;"></a>
 
 # Abacus TOR: Secure Access to the Abacus Marketplace
 
@@ -27,9 +27,9 @@ Accessing **Abacus Market** via **Abacus TOR** requires careful attention to sec
    - Always double-check the link for authenticity to avoid phishing attempts.
    - Access the **Abacus Market** through the Tor Browser only.
 
-**Official Onion Link:** [@abacus_tor@](@abacus_tor@)
+**Official Onion Link:** [http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion)
 
-[<img src="/config/chart.webp" width="200">](@abacus_tor@)
+[<img src="/image/mirror.webp" width="200">](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion)
 
 ### 3. **Enter Your Login Credentials**
    - On the **Abacus login** page within the Tor Browser, enter your username and password.
@@ -80,5 +80,5 @@ The combination of **Abacus TOR** and the **Abacus login** process is your gatew
 
 **Disclaimer:** This article is for educational purposes only. We do not endorse or encourage any illegal activities. Always comply with the laws and regulations in your jurisdiction.
 
-<a href="@abacus_tor@"><img src="/config/about  .webp" alt="Abacus Login" style="max-width: 100%;"></a>
-<a href="@abacus_tor@"><img src="/config/tooltip.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+<a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/image/display.webp" alt="Abacus Login" style="max-width: 100%;"></a>
+<a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/image/gray.webp" alt="Abacus Register" style="max-width: 100%;"></a>
